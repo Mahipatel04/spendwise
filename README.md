@@ -4,7 +4,7 @@ Spendwise is a personal expense tracker that makes a monthly plan easier to unde
 
 ## Preview
 
-Open the `expense-tracker` folder in Visual Studio Code and launch `index.html` with the Live Server extension. No build step or package installation is required. The page starts blank so you can enter your own numbers.
+Open the repository folder in Visual Studio Code and launch `index.html` with the Live Server extension. No build step or package installation is required. The page starts blank so you can enter your own numbers.
 
 ## Features
 
@@ -24,7 +24,6 @@ Your salary, budgets, and transactions are stored in the current browser's local
 ## Files
 
 ```text
-expense-tracker/
 ├── index.html
 ├── styles.css
 ├── app.js
